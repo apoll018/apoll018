@@ -12,13 +12,21 @@ Here are some ideas to get you started:
 
 -> 😄 Pronouns: ele/dele/he/him
 
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://github.com/apoll018/icons/blob/main/icons.css">
+</head>
+<body>
+
 <div align="center">
   <a href="https://github.com/apoll018">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apoll018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoll018&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
-<div style="display: inline_block">
+<div style="display: inline_block" class="icons">
   <img align="center" alt="lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="lucas-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="lucas-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -38,5 +46,8 @@ Here are some ideas to get you started:
    
    ![Snake animation](https://github.com/apoll018/apoll018/blob/output/github-contribution-grid-snake.svg)
  </div>
+
+  </body>
  
+  </html>
   
