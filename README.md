@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="lucas-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
   <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://img.cartoongoodies.com/wp-content/uploads/2019/11/Steven-Universe-waving.gif">
 </div>
-
+<br>
  <div>
    <a href="mailto:lucastecmedeiros@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/lucas-henrique-da-silva-medeiros-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%E2%9D%A4%EF%B8%8F-792728233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
