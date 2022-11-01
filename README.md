@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <img align="center" alt="lucas-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="lucas-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
   <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://img.cartoongoodies.com/wp-content/uploads/2019/11/Steven-Universe-waving.gif">
+  
+  
+  
 </div>
 <br>
  <div>
