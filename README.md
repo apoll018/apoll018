@@ -34,7 +34,6 @@ Here are some ideas to get you started:
    <a href="mailto:lucastecmedeiros@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/lucas-henrique-da-silva-medeiros-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%E2%9D%A4%EF%B8%8F-792728233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  <a href="https://www.instagram.com/lucashsmedeiros/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100022168234036" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    
    ![Snake animation](https://github.com/apoll018/apoll018/blob/output/github-contribution-grid-snake.svg)
  </div>
