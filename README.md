@@ -17,74 +17,8 @@ Here are some ideas to get you started:
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-	<style>
-        
-        .icons{
-
-        	display: inline-flex;
-        	border-bottom: 4px solid #EFEFEF;
-        	border-radius: 5px;
-        }
-
-        .icons img{
-
-        	filter: drop-shadow(0px 0px 1px #4b4b50);
-        	animation: flutuar 3s linear infinite;
-        }
-
-        @keyframes flutuar{
-
-        	0%,
-        	100%{
-
-        		transform: translateY(0px);
-        	}
-        	50%{
-
-        		transform: translateY(-23px);
-        	}
-        }
-        .icons img:nth-child(2){
-        	animation-delay: .2s;
-        }
-
-        .icons img:nth-child(3){
-        	animation-delay: .4s;
-        }
-
-        .icons img:nth-child(3){
-        	animation-delay: .6s;
-        }
-
-        .icons img:nth-child(4){
-        	animation-delay: .8s;
-        }
-
-        .icons img:nth-child(5){
-        	animation-delay: .10s;
-        }
-
-        .icons img:nth-child(6){
-        	animation-delay: .12s;
-        }
-
-        .icons img:nth-child(7){
-        	animation-delay: .14s;
-        }
-
-        .icons img:nth-child(8){
-        	animation-delay: .16s;
-        }
-
-
-
-
-
-    </style>
 
  <div align="center">
   <a href="https://github.com/apoll018">
